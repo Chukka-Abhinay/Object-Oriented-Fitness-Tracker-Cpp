@@ -1,5 +1,3 @@
-Of course. Here is a shorter, more direct README file for your project.
-
 C++ Fitness Tracker
 A console-based application built with C++ and Object-Oriented Programming (OOP) to help users manage and track their daily fitness goals.
 
